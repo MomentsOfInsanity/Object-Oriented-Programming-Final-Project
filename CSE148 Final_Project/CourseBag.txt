@@ -1,0 +1,12 @@
+#
+CSE114/College Seminar/Description:/3.0/[Introduction to Java : Edition. 11]
+#
+CSE118/Introduction to Programming/Description:/4.0/[Introduction to Java : Edition. 8]
+#
+CSE148/Object Oriented Programming/Description:/4.0/[Introduction to Java : Edition. 8]
+#
+CSE218/Data Structures/Description:/3.0/[Intermediete to Java : Vol. 1]
+#
+CSE222/Architecher/Description:/3.0/[Intermediete to Java : Edition. 4]
+#
+CSE248/Advanced O.O.P/Description:/1.0/[Intermediete to Java : Edition. 4]
